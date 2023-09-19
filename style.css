@@ -1,6 +1,47 @@
 html, body {
     background-image: url(/Homework_2/General.jpg);
     margin: 0;
-    color:rgb(67, 2, 2);
+    color:rgb(14, 2, 67);
     height: 100%;
 }body
+
+header {
+    width: 100%;
+    background-color: rgb(14, 84, 235);
+    padding: 10px;
+    height: 90px;
+    position: relative;
+    top: 0px;
+}
+
+header img {
+    width: 90px;
+    height: 90px;
+}
+  
+header div {
+    position: absolute;
+    top: 40px;
+    left: 110px;
+    font-size: 36px;
+    color: rgb(14, 2, 67);
+    font-weight: bold;
+    font-style: italic;
+}
+
+footer {
+    width: 100%;
+    background-color: rgb(14, 2, 67);
+    padding: 10px;
+    height: 90px;
+    position: relative;
+    bottom: 0px;
+}
+
+footer div {
+    font-size: 20px;
+    color: rgb(14, 2, 67);
+    position: relative;
+    top: 50px;
+    left: 10px;
+}
