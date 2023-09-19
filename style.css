@@ -1,1 +1,6 @@
-///
+html, body {
+    background-image: url(/Homework_2/General.jpg);
+    margin: 0;
+    color:rgb(67, 2, 2);
+    height: 100%;
+}body
